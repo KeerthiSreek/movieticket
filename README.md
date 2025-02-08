@@ -1,2 +1,2 @@
 # movieticket
-An simple design on ui/ux for booking a show.
+An simple design on ui/ux for booking a show for a movie which has been done with limited prototype and same category of colors to maintain the theme of it and personally I choose a movie according to my idea.This design focuses on usability, simplicity, and clear paths to completing the booking process while ensuring an aesthetically pleasing interface. The system is responsive across mobile apps.
